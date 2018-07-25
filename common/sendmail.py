@@ -1,12 +1,14 @@
 #!user/bin/env python
 # coding=utf-8
 # @Author  : Dang
-# @Time    : 2018/6/10 17:25
+# @Time    : 2018/5/22 17:25
 # @Email   : 1370465454@qq.com
-# @File    : 
+# @File    : log.py
 # @Description:
+
 import os
 import sys
+sys.path.append("../")
 import smtplib
 import time
 from email.mime.text import MIMEText
@@ -59,7 +61,7 @@ class Send_Mail:
         att1 = MIMEText(mailbody, 'base64', 'gb2312')
         att1["Content-Type"] = 'application/octet-stream'
         # 这里的filename可以任意写，写什么名字，邮件中显示什么名字
-        att1["Content-Disposition"] = 'attachment; filename="TestReport.html"'
+        att1["Content-Disposition"] = '"attachment; filename="'+ self.msg['date'] +"TestReport.html"
         self.msg.attach(att1)
 
     def send(self):
@@ -67,7 +69,7 @@ class Send_Mail:
         self.__take_messages()
         self.msg['from'] = sendaddr_name
         try:
-            smtp = smtplib.SMTP('smtp.foreveross.com')
+            smtp = smtplib.SMTP('服务器地址')
             smtp.login(sendaddr_name, sendaddr_pswd)
             smtp.sendmail(self.msg['from'], self.sendTo, self.msg.as_string())
             smtp.close()

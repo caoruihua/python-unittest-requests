@@ -21,9 +21,6 @@ testdata = ExcelUtil(data_path_name, read_excel_sheetname).dict_data()
 @ddt.ddt
 class My_Test(unittest.TestCase):
     """docstring for My_Test"""
-    # def __init__(self, arg):
-    #     super(My_Test, self).__init__()
-    #     self.arg = arg
     @classmethod
     def setUpClass(cls):
         cls.s = requests.session()

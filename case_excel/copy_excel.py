@@ -29,14 +29,6 @@ def copy_excel(excelpath1, excelpath2):
     wb2.save(excelpath2)                 # 保存数据
     wb1.close()                          # 关闭excel
     wb2.close()
-# def new_excel():
-#      if len(sys.argv) > 1:
-#         report_name = os.getcwd() + '\\report\\test_excelreport\\' + \
-#             sys.argv[1] + 'result.xlsx'
-#     else:
-#         now = time.strftime('%Y-%m-%d_%H_%M_%S')
-#         reportname = os.getcwd() + '\\report\\test_excelreport\\' + now + 'result.xlsx'
-#         return reportname
 class Write_excel(object):
     '''修改excel数据'''
     def __init__(self, filename):

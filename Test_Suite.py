@@ -15,6 +15,8 @@ sys.path.append('../')
 from common import sendmail
 curpath = os.path.dirname(os.path.realpath(__file__))
 case_path = os.path.join(curpath, "case")
+
+
 def create_suite():
     TestSuite = unittest.TestSuite()  # 测试集
     test_dir = os.getcwd() + '\\test_case\\'

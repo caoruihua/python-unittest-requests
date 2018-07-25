@@ -81,7 +81,7 @@ def send_requests(s, testdata):
         return res
 def wirte_result(result, filename=globalparam.result_path):
     # 返回结果的行数row_nub
-    print(result)
+    # print(result)
     row_nub = result['rowNum']
     # 写入statuscode
     wt = Write_excel(filename)
@@ -92,7 +92,5 @@ def wirte_result(result, filename=globalparam.result_path):
     wt.write(row_nub, 17, result['response'])           # 返回结果
 if __name__ == "__main__":
     data = ExcelUtil(globalparam.data_path_name,"TestCase")
-    print(data.dict_data())
+    # print(data.dict_data())
     s = requests.session()
-    # copy_excel("debug_api.xlsx", "result.xlsx")
-    # wirte_result(res, filename="result.xlsx")
