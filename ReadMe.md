@@ -36,7 +36,7 @@ Files
 		sendmail.py文件：用来发送邮件
 4. config文件夹：
 		__init__.py文件：初始化文件
-		config.ini文件：配置文件
+		config.ini文件：配置项目路径
 		globalparam.py文件：全局配置文件
 5. data文件夹：
 		__init__.py文件：初始化文件
@@ -47,6 +47,8 @@ Files
 		interface_senddata.py文件：对excel组装、写入
 7. test_case文件夹：
 		test_test.py文件:利用ddt数据驱动对复用单个用例
+8. test文件夹:
+	
 
 仍存在bug
 ===

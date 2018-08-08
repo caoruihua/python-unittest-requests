@@ -8,11 +8,6 @@
 
 import requests
 import json
-import sys
-sys.path.append('../')
-from common.log import Log
-#截图放到report下的img目录下
-logger=Log()
 class Run_Method:
     #传入参数 url data header
     def post_main(self,url,data):
@@ -37,4 +32,3 @@ class Run_Method:
 if __name__ == '__main__':
     data = {"username":"****","password":"**","verify":"", "referer":"http://m.imooc.com"}
     t = Run_Method()
-    logger.info(t.run_main('Post','http://172.16.1.98:9080/mockjsdata/1/lihuobao/getDoctorinfo.action',data))

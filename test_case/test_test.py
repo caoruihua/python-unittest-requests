@@ -1,17 +1,15 @@
-#!user/bin/env python
-# coding=utf-8
-# @Author  : Dang
-# @Time    : 2018/5/24 17:25
-# @Email   : 1370465454@qq.com
-# @File    : log.py
-# @Description:
-from time import sleep
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: Dang Kai
+# @Date: 2018-08-06 17:25:43
+# @Last Modified time: 2018-08-08 08:58:51
+# @E-mail: 1370465454@qq.com
+# @Description: 
 import sys,ddt
 sys.path.append("../")
-from common import my_test,publicfunction
+from common import my_test
 from config import globalparam
 from config.globalparam import data_path_name, read_excel_sheetname
-# sys.path.append(globalparam.config_file_path)
 import unittest
 from case_excel.read_excel import ExcelUtil
 from interface.interface_senddata import send_requests,wirte_result
@@ -24,7 +22,6 @@ class Test_Case(my_test.My_Test):
         # print(data['Request URL'])  
         # print(data['Request Method'])  
         # print(data['Request Data']) 
-        # 先复制excel数据到report
         res = send_requests(self.s, data)
         wirte_result(res, filename=globalparam.result_path)
 

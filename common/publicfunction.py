@@ -10,7 +10,6 @@ import sys,time,os
 sys.path.append('../')
 from config import globalparam
 from PIL import ImageGrab
-# sys.path.append(globalparam.config_file_path)
 #截图放到report下的img目录下
 
 def get_img(dr,filename):

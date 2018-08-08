@@ -196,9 +196,9 @@
         
     <div class='page-header'>
         <h1>测试报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2018-07-20 16:10:03</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:00.063871</p>
-<p class='attribute'><strong>状态:</strong> 错误 1</p>
+    <p class='attribute'><strong>开始时间:</strong> 2018-08-07 15:43:27</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:01.258189</p>
+<p class='attribute'><strong>状态:</strong> 通过 1</p>
 
     </div>
     <div style="float: left;width:50%;"><p class='description'>测试用例执行情况</p></div>
@@ -229,41 +229,30 @@
             <td>查看</td>
         </tr>
         
-    <tr class='errorClass'>
-        <td>unittest.loader._FailedTest</td>
+    <tr class='passClass'>
+        <td>test_test.Test_Case</td>
+        <td>1</td>
         <td>1</td>
         <td>0</td>
         <td>0</td>
-        <td>1</td>
         <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
     </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_test</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_api_1: dict() -> new empty dictionary</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        错误</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        通过</a>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <pre>
-        ft1.1: ImportError: Failed to import test module: test_test
-Traceback (most recent call last):
-  File "D:\Software\Python37\lib\unittest\loader.py", line 434, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "D:\Software\Python37\lib\unittest\loader.py", line 375, in _get_module_from_name
-    __import__(name)
-  File "D:\Software\Project_Python\python-unittest-requests\test_case\test_test.py", line 11, in &lt;module&gt;
-    from common import my_test,publicfunction
-  File "D:\Software\Project_Python\python-unittest-requests\common\my_test.py", line 20, in &lt;module&gt;
-    testdata = ExcelUtil(data_path_name, read_excel_sheetname).dict_data()
-  File "D:\Software\Project_Python\python-unittest-requests\case_excel\read_excel.py", line 17, in __init__
-    self.data = xlrd.open_workbook(excelPath)
-  File "D:\Software\Python37\lib\site-packages\xlrd\__init__.py", line 116, in open_workbook
-    with open(filename, "rb") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Pyproject\\python-unittest-requests\\data\\TestCase.xlsx'
-
+        pt1.1: *******正在执行用例：-----  获取豆瓣电影  ----**********
+请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+D:\Software\Python37\lib\site-packages\urllib3\connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+页面返回信息：{'tags': ['热门', '最新', '经典', '可播放', '豆瓣高分', '冷门佳片', '华语', '欧美', '韩国', '日本', '动作', '喜剧', '爱情', '科幻', '悬疑', '恐怖', '文艺']}
 
         </pre>
     </div>
@@ -275,9 +264,9 @@ FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Pyproject\\python-u
         <tr id='total_row'>
             <td>总计</td>
             <td>1</td>
-            <td>0</td>
-            <td>0</td>
             <td>1</td>
+            <td>0</td>
+            <td>0</td>
             <td>&nbsp;</td>
         </tr>
     </table>
@@ -310,9 +299,9 @@ FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Pyproject\\python-u
                     radius : '60%',
                     center: ['50%', '60%'],
                     data:[
-                        {value:0, name:'通过'},
+                        {value:1, name:'通过'},
                         {value:0, name:'失败'},
-                        {value:1, name:'错误'}
+                        {value:0, name:'错误'}
                     ],
                     itemStyle: {
                         emphasis: {

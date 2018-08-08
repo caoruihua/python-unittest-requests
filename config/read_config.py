@@ -1,10 +1,10 @@
-#!user/bin/env python
-# coding=utf-8
-# @Author  : Dang
-# @Time    : 2018/6/10 17:25
-# @Email   : 1370465454@qq.com
-# @File    : 
-# @Description:
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: Dang Kai
+# @Date: 2018-08-06 17:25:43
+# @Last Modified time: 2018-08-07 09:44:02
+# @E-mail: 1370465454@qq.com
+# @Description: 读取ini配置文件
 
 import configparser
 import codecs
@@ -15,7 +15,7 @@ class Read_Config:
 
     def __init__(self, filename):
         configpath = filename
-        fd = open(configpath,'r',encoding='gbk')
+        fd = open(configpath, 'r', encoding='gbk')
         data = fd.read()
         if data[:3] == codecs.BOM_UTF8:
             data = data[3:]
@@ -36,3 +36,5 @@ class Read_Config:
         :return:D:\Pyproject\Test_Login
         """
         return self.cf.get(env, name)
+
+

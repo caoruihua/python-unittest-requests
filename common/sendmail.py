@@ -1,10 +1,10 @@
-#!user/bin/env python
-# coding=utf-8
-# @Author  : Dang
-# @Time    : 2018/5/22 17:25
-# @Email   : 1370465454@qq.com
-# @File    : log.py
-# @Description:
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: Dang Kai
+# @Date: 2018-08-06 17:25:43
+# @Last Modified time: 2018-08-08 08:59:43
+# @E-mail: 1370465454@qq.com
+# @Description: 
 
 import os
 import sys
