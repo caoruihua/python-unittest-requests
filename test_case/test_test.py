@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Author: Dang Kai
 # @Date: 2018-08-06 17:25:43
-# @Last Modified time: 2018-08-08 08:58:51
+# @Last Modified time: 2018-08-09 10:56:43
 # @E-mail: 1370465454@qq.com
 # @Description: 
 import sys,ddt
@@ -19,9 +19,7 @@ testdata = ExcelUtil(data_path_name, read_excel_sheetname).dict_data()
 class Test_Case(my_test.My_Test):
     @ddt.data(*testdata)
     def test_api(self,data):
-        # print(data['Request URL'])  
-        # print(data['Request Method'])  
-        # print(data['Request Data']) 
+        '''测试'''
         res = send_requests(self.s, data)
         wirte_result(res, filename=globalparam.result_path)
 

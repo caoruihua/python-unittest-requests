@@ -196,9 +196,9 @@
         
     <div class='page-header'>
         <h1>测试报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2018-08-07 15:43:27</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:01.258189</p>
-<p class='attribute'><strong>状态:</strong> 通过 1</p>
+    <p class='attribute'><strong>开始时间:</strong> 2018-08-09 15:15:31</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:01.893016</p>
+<p class='attribute'><strong>状态:</strong> 通过 2</p>
 
     </div>
     <div style="float: left;width:50%;"><p class='description'>测试用例执行情况</p></div>
@@ -231,15 +231,15 @@
         
     <tr class='passClass'>
         <td>test_test.Test_Case</td>
-        <td>1</td>
-        <td>1</td>
+        <td>2</td>
+        <td>2</td>
         <td>0</td>
         <td>0</td>
-        <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
+        <td><a href="javascript:showClassDetail('c1',2)">详情</a></td>
     </tr>
 
 <tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_api_1: dict() -> new empty dictionary</div></td>
+    <td class='none'><div class='testcase'>test_api_1:   获取豆瓣电影  </div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -248,11 +248,30 @@
 
     <div id='div_pt1.1' class="popup_window">
         <pre>
-        pt1.1: *******正在执行用例：-----  获取豆瓣电影  ----**********
-请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
-D:\Software\Python37\lib\site-packages\urllib3\connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
-  InsecureRequestWarning)
-页面返回信息：{'tags': ['热门', '最新', '经典', '可播放', '豆瓣高分', '冷门佳片', '华语', '欧美', '韩国', '日本', '动作', '喜剧', '爱情', '科幻', '悬疑', '恐怖', '文艺']}
+        pt1.1: [2018-08-09 15:15:31,659] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:15:31,664] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:15:31,870] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影----&gt;pass
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_api_2:   POST无参数  </div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        通过</a>
+
+    <div id='div_pt1.2' class="popup_window">
+        <pre>
+        pt1.2: [2018-08-09 15:15:31,923] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:15:31,928] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:15:32,877] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数----&gt;pass
 
         </pre>
     </div>
@@ -263,8 +282,8 @@ D:\Software\Python37\lib\site-packages\urllib3\connectionpool.py:857: InsecureRe
 
         <tr id='total_row'>
             <td>总计</td>
-            <td>1</td>
-            <td>1</td>
+            <td>2</td>
+            <td>2</td>
             <td>0</td>
             <td>0</td>
             <td>&nbsp;</td>
@@ -299,7 +318,7 @@ D:\Software\Python37\lib\site-packages\urllib3\connectionpool.py:857: InsecureRe
                     radius : '60%',
                     center: ['50%', '60%'],
                     data:[
-                        {value:1, name:'通过'},
+                        {value:2, name:'通过'},
                         {value:0, name:'失败'},
                         {value:0, name:'错误'}
                     ],

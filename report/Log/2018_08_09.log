@@ -1,0 +1,297 @@
+[2018-08-09 10:41:04,842] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 10:41:04,846] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 10:41:04,852] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 10:41:07,459] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 10:41:07,515] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 10:41:07,519] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 10:41:29,556] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 10:56:35,994] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 10:56:36,005] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 10:56:44,007] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 10:56:44,011] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 10:56:44,014] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 10:56:44,323] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 10:56:44,373] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 10:56:44,377] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 10:56:45,757] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 10:56:45,805] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 10:58:27,536] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 10:58:27,543] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 10:58:27,548] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 10:58:27,777] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 10:58:27,849] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 10:58:27,853] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 10:58:28,909] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:02:01,585] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:02:01,589] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:02:01,594] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:02:01,859] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:02:01,930] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:02:01,934] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:02:02,948] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:10:53,571] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:11:37,304] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:11:37,309] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:11:37,623] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:11:57,938] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:11:57,943] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:12:23,769] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:30:29,158] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:30:29,165] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:30:29,171] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:30:29,550] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:30:29,847] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:30:29,853] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:30:31,156] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:32:58,463] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:32:58,470] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:32:58,476] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:32:58,747] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:32:59,049] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:32:59,054] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:33:00,356] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:39:11,402] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:39:11,407] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:39:11,411] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:39:12,500] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:39:12,574] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:39:12,579] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:39:14,643] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 11:39:14,725] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:41:51,520] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:41:51,526] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:41:51,530] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:41:51,733] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:41:51,813] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:41:51,818] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:41:52,866] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:50:17,025] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:50:17,030] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:50:17,036] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:50:17,324] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:50:17,400] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:50:17,404] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:50:18,398] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 11:50:18,471] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:52:01,842] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:52:01,847] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:52:01,851] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:52:02,048] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:52:02,124] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:52:02,129] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:52:03,069] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 11:52:03,144] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:52:35,222] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:52:35,227] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:52:35,232] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:52:35,466] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:52:35,541] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:52:35,545] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:52:37,076] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:54:18,844] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:54:18,849] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:54:18,854] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:54:19,132] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:54:19,215] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:54:19,220] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:54:35,882] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 11:54:35,887] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 11:54:35,892] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 11:54:36,101] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 11:54:36,175] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 11:54:36,179] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 11:54:41,360] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 11:55:22,791] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:11:26,770] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:11:26,776] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:11:26,780] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:11:27,017] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:11:27,087] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:11:27,091] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:11:28,088] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:11:28,163] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:11:49,459] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:11:49,464] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:11:49,468] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:11:49,686] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:11:49,757] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:11:49,762] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:11:50,959] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:12:01,109] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:12:01,114] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:12:01,119] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:12:01,338] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:12:01,408] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:12:01,412] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:12:02,570] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:13:45,611] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:13:45,615] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:13:45,620] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:13:45,871] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:13:45,940] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:13:45,945] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:13:46,949] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:13:47,028] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:14:10,017] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:14:10,023] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:14:10,027] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:14:10,265] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:14:10,337] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:14:10,342] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:14:11,681] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:16:29,329] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:16:29,334] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:16:29,338] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:16:29,548] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:16:29,619] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:16:29,623] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:16:30,613] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:16:30,691] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:21:00,617] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:21:00,622] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:21:00,627] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:21:00,852] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:21:00,926] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:21:00,930] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:21:02,944] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:21:45,735] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:21:45,740] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:21:45,744] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:21:45,953] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:21:46,025] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:21:46,029] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:21:46,974] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:21:47,047] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:22:41,907] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:22:41,912] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:22:41,916] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:22:42,134] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:22:42,204] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:22:42,208] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:22:43,227] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:22:43,298] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:23:21,863] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:23:21,868] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:23:21,872] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:23:22,080] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:23:22,150] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:23:22,155] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:23:23,228] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:23:50,386] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:23:50,391] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:23:50,396] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:23:50,608] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:23:50,685] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:23:50,690] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:23:51,675] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:23:51,748] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:44:16,779] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:44:16,784] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:44:16,789] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:44:17,112] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:44:17,184] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:44:17,187] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:44:18,289] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 14:44:18,410] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:44:37,795] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:44:37,800] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:44:37,804] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:44:38,009] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:44:38,080] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:44:38,085] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:44:39,129] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:44:58,748] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:44:58,753] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  ----**********
+[2018-08-09 14:44:58,758] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:44:58,985] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:44:59,057] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  ----**********
+[2018-08-09 14:44:59,062] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:45:00,459] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:57:19,916] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:57:19,921] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 14:57:19,925] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:57:20,160] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:57:20,237] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 14:57:20,242] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:57:22,485] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:58:13,338] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:58:13,343] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 14:58:13,347] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:58:13,565] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:58:13,637] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 14:58:13,643] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:58:38,932] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:58:38,936] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 14:58:38,941] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:58:39,139] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:58:39,213] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 14:58:39,217] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:58:40,310] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 14:59:09,806] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 14:59:09,811] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 14:59:09,815] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 14:59:10,037] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 14:59:10,107] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 14:59:10,111] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 14:59:11,532] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:00:07,536] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:00:07,541] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:00:07,544] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:00:07,796] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:00:07,868] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:00:07,872] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:00:09,173] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:03:21,092] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:03:21,097] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:03:21,101] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:03:21,350] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:03:21,429] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:03:21,433] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:03:23,550] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:03:25,098] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:03:25,103] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:03:25,108] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:03:25,314] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:03:25,387] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:03:25,392] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:03:47,370] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 15:03:47,443] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:08:00,185] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:08:00,190] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:08:00,194] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:08:00,474] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:08:00,555] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:08:00,559] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:08:01,535] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 15:08:01,609] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:13:31,114] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:13:31,119] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:13:31,124] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:13:31,396] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:13:31,468] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:13:31,472] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:13:32,480] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 15:13:32,551] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:13:37,286] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:13:37,290] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:13:37,294] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:13:37,506] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:13:37,561] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:13:37,565] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:13:38,564] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:13:43,462] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:13:43,467] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:13:43,471] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:13:43,672] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:13:43,725] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:13:43,730] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:13:44,719] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 15:13:44,773] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################
+[2018-08-09 15:15:31,655] - log.py[line:46] - fuc:__console- INFO: ############################### START ###############################
+[2018-08-09 15:15:31,659] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  获取豆瓣电影  -----**********
+[2018-08-09 15:15:31,664] - log.py[line:46] - fuc:__console- INFO: 请求方式：GET, 请求url:https://movie.douban.com/j/search_tags
+[2018-08-09 15:15:31,870] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   获取豆瓣电影---->pass
+[2018-08-09 15:15:31,923] - log.py[line:46] - fuc:__console- INFO: *******正在执行用例：-----  POST无参数  -----**********
+[2018-08-09 15:15:31,928] - log.py[line:46] - fuc:__console- INFO: 请求方式：POST, 请求url:https://httpbin.org/post
+[2018-08-09 15:15:32,877] - log.py[line:46] - fuc:__console- INFO: 用例测试结果:   POST无参数---->pass
+[2018-08-09 15:15:32,937] - log.py[line:46] - fuc:__console- INFO: ############################### END ###############################

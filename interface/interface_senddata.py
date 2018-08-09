@@ -35,7 +35,7 @@ def send_requests(s, testdata):
     # post请求body类型
     type = testdata["Request Data Type"]
     test_nub = testdata['API Purpose']
-    logger.info("*******正在执行用例：-----  %s  ----**********" % test_nub)
+    logger.info("*******正在执行用例：-----  %s  -----**********" % test_nub)
     logger.info("请求方式：%s, 请求url:%s" % (method, url))
     # print("请求params：%s" % params)
     # post请求Request Data内容

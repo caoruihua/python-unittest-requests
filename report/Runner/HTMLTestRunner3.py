@@ -102,7 +102,6 @@ Version in 0.7.1
 import datetime
 import sys
 import io
-import time
 import unittest
 from xml.sax import saxutils
 
@@ -809,6 +808,7 @@ class HTMLTestRunner(Template_mixin):
                 name = cls.__name__
             else:
                 name = "%s.%s" % (cls.__module__, cls.__name__)
+            # doc=o.split('-----')[1] or ""#修改统计
             doc = cls.__doc__ and cls.__doc__.split("\n")[0] or ""
             desc = doc and '%s: %s' % (name, doc) or name
 
@@ -848,7 +848,8 @@ class HTMLTestRunner(Template_mixin):
         has_output = bool(o or e)
         tid = (n == 0 and 'p' or 'f') + 't%s.%s' % (cid+1,tid+1)
         name = t.id().split('.')[-1]
-        doc = t.shortDescription() or ""
+        # doc = o.shortDescription() or ""
+        doc=o.split('-----')[1] or "" #修改
         desc = doc and ('%s: %s' % (name, doc)) or name
         tmpl = has_output and self.REPORT_TEST_WITH_OUTPUT_TMPL or self.REPORT_TEST_NO_OUTPUT_TMPL
 
