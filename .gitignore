@@ -1,0 +1,9 @@
+
+*.log
+*.xlsx
+*.html
+report/test_result/report.xlsx
+*.log
+report/test_result/report.xlsx
+report/test_result/report.xlsx
+*.xml
