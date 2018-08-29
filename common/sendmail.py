@@ -8,14 +8,14 @@
 
 import os
 import sys
-sys.path.append("../")
 import smtplib
 import time
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from config import globalparam
-# sys.path.append(globalparam.config_file_path)
 from common.log import Log
+sys.path.append("../")
+
 # 测试报告的路径
 reportPath = globalparam.report_path
 # print(reportPath)
@@ -61,7 +61,7 @@ class Send_Mail:
         att1 = MIMEText(mailbody, 'base64', 'gb2312')
         att1["Content-Type"] = 'application/octet-stream'
         # 这里的filename可以任意写，写什么名字，邮件中显示什么名字
-        att1["Content-Disposition"] = '"attachment; filename="'+ self.msg['date'] +"TestReport.html"
+        att1["Content-Disposition"] = '"attachment; filename="'+ self.msg['date'] + "TestReport.html"
         self.msg.attach(att1)
 
     def send(self):

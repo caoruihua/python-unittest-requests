@@ -7,3 +7,5 @@ report/test_result/report.xlsx
 report/test_result/report.xlsx
 report/test_result/report.xlsx
 *.xml
+*.pyc
+*.pyc

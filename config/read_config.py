@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Author: Dang Kai
 # @Date: 2018-08-06 17:25:43
-# @Last Modified time: 2018-08-07 09:44:02
+# @Last Modified time: 2018-08-16 15:05:00
 # @E-mail: 1370465454@qq.com
 # @Description: 读取ini配置文件
 
@@ -11,7 +11,7 @@ import codecs
 
 
 class Read_Config:
-    '''专门读取配置文件的,.ini文件格式'''
+    """专门读取配置文件的,.ini文件格式"""
 
     def __init__(self, filename):
         configpath = filename
@@ -19,9 +19,9 @@ class Read_Config:
         data = fd.read()
         if data[:3] == codecs.BOM_UTF8:
             data = data[3:]
-            files = codes.open(configpath, "w")
-            file.write(data)
-            file.close()
+            files = codecs.open(configpath, "w")
+            files.write(data)
+            files.close()
         fd.close()
 
         self.cf = configparser.ConfigParser()
@@ -36,5 +36,3 @@ class Read_Config:
         :return:D:\Pyproject\Test_Login
         """
         return self.cf.get(env, name)
-
-

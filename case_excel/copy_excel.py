@@ -10,7 +10,7 @@ from openpyxl import load_workbook
 
 
 def copy_excel(excelpath1, excelpath2):
-    '''复制excek，把excelpath1数据复制到excelpath2'''
+    """复制excel，把 excelpath1 数据复制到 excelpath2"""
     wb2 = openpyxl.Workbook()
     wb2.save(excelpath2)
     # 读取数据

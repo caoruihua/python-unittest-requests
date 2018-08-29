@@ -13,6 +13,7 @@ from config.globalparam import data_path_name, read_excel_sheetname
 import unittest
 from case_excel.read_excel import ExcelUtil
 from interface.interface_senddata import send_requests,wirte_result
+
 testdata = ExcelUtil(data_path_name, read_excel_sheetname).dict_data()
 
 @ddt.ddt

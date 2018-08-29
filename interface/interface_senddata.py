@@ -6,7 +6,6 @@
 # @File    :
 # @Description:发送数据组合
 import json
-import requests
 import sys
 sys.path.append('../')
 from config import globalparam

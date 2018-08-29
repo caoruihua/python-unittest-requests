@@ -33,8 +33,10 @@ def report():
             sys.argv[1] + '_result.html'
     else:
         now = time.strftime('%Y-%m-%d_%H_%M_%S')
-        reportname = os.getcwd() + '\\report\\test_report\\' + now + 'result.html'
-        return reportname
+        report_name = os.getcwd() + '\\report\\test_report\\' + now + 'result.html'
+        return report_name
+
+
 f = open(report(), 'wb')
 runner = HTMLTestRunner(stream=f, title=u'测试报告',
                         description=u'测试用例执行情况',

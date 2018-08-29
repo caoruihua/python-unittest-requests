@@ -7,9 +7,10 @@
 # @Description:接口的方法封装
 
 import requests
-import json
+
 class Run_Method:
-    #传入参数 url data header
+
+
     def post_main(self,url,data):
         '''参数必须按照url、data顺序传入'''
         res=None
