@@ -5,7 +5,7 @@
 # @Last Modified time: 2018-08-09 10:56:43
 # @E-mail: 1370465454@qq.com
 # @Description: 
-import sys,ddt
+import sys, ddt
 sys.path.append("../")
 from common import my_test
 from config import globalparam

@@ -9,7 +9,7 @@
 import unittest
 import sys
 import os
-from report.Runner.HTMLTestRunner3 import HTMLTestRunner
+from report.Runner.HTMLTestReportCN import HTMLTestRunner
 import time
 sys.path.append('../')
 from common import sendmail
@@ -19,7 +19,7 @@ case_path = os.path.join(curpath, "case")
 
 def create_suite():
     TestSuite = unittest.TestSuite()  # 测试集
-    test_dir = os.getcwd() + '\\test_case\\'
+    test_dir = os.getcwd() + '/test_case/'
     suite = unittest.defaultTestLoader.discover(
         start_dir=test_dir, pattern='test*.py', top_level_dir=None)
     for test_case in suite:
@@ -29,11 +29,11 @@ def create_suite():
 
 def report():
     if len(sys.argv) > 1:
-        report_name = os.getcwd() + '\\report\\test_report\\' + \
+        report_name = os.getcwd() + '/report/test_report/' + \
             sys.argv[1] + '_result.html'
     else:
         now = time.strftime('%Y-%m-%d_%H_%M_%S')
-        report_name = os.getcwd() + '\\report\\test_report\\' + now + 'result.html'
+        report_name = os.getcwd() + '/report/test_report/' + now + 'result.html'
         return report_name
 
 
